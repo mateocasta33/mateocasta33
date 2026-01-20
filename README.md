@@ -22,7 +22,7 @@ Mi experiencia en QA me brinda una visión integral del ciclo de vida del softwa
 C# | ASP.NET Core | Entity Framework Core | RESTful APIs | JWT Authentication | xUnit
 
 **Frontend**  
-Angular 21 | TypeScript | RxJS | Reactive Forms
+Angular 21 | TypeScript | Reactive Forms
 
 **Bases de Datos**  
 PostgreSQL | MySQL | MongoDB
@@ -31,7 +31,7 @@ PostgreSQL | MySQL | MongoDB
 Docker | Docker Compose | GitHub Actions | CI/CD | Git | RabbitMQ
 
 **Arquitectura & Metodologías**  
-Microservices Architecture | Clean Architecture | SOLID Principles | Design Patterns | Agile/Scrum | Test-Driven Development
+Microservices Architecture | Clean Architecture | SOLID Principles | Design Patterns | Agile/Scrum 
 
 ---
 
@@ -64,14 +64,6 @@ Pipeline CI/CD y arquitectura de microservicios en equipo
 - Integración de YARP como API Gateway
 
 **Stack:** .NET | Angular | Docker | GitHub Actions | PostgreSQL | YARP | xUnit
-
----
-
-## GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=TUUSUARIO&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TUUSUARIO&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
 
 ---
 
