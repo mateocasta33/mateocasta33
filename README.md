@@ -1,6 +1,6 @@
 # Mateo Castañeda Giraldo
 
-**Desarrollador Full Stack | .NET + Angular | DevOps**
+**Desarrollador de softwarw | .NET + Angular | DevOps**
 
 Envigado, Antioquia, Colombia  
 mateocasta33@gmail.com  
@@ -10,7 +10,7 @@ mateocasta33@gmail.com
 
 ## Sobre mí
 
-Desarrollador de software especializado en arquitecturas de microservicios con el stack .NET y Angular. Mi enfoque está en construir sistemas robustos y escalables, aplicando buenas prácticas de desarrollo, Clean Code y DevOps.
+Desarrollador de software especializado en arquitecturas de microservicios con el stack .NET y conocimientos en Angular. Mi enfoque está en construir sistemas robustos y escalables, aplicando buenas prácticas de desarrollo, Clean Code y DevOps.
 
 Mi experiencia en QA me brinda una visión integral del ciclo de vida del software, permitiéndome diseñar soluciones más confiables y de mayor calidad.
 
